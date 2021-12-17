@@ -1,2 +1,2 @@
-# testprojetc
-Meu primeiro site teste
+#Bugdroid
+Meu primeiro site simples que fiz estudando pelo curso em video do Gustavo Guanabara.
